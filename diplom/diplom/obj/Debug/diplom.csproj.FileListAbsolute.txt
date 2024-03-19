@@ -1,0 +1,16 @@
+C:\Users\bakuzov_as\source\repos\diplom\diplom\bin\Debug\diplom.exe.config
+C:\Users\bakuzov_as\source\repos\diplom\diplom\bin\Debug\diplom.exe
+C:\Users\bakuzov_as\source\repos\diplom\diplom\bin\Debug\diplom.pdb
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.csproj.AssemblyReference.cache
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.Form1.resources
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.Properties.Resources.resources
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.csproj.GenerateResource.cache
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.csproj.CoreCompileInputs.cache
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.exe
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.pdb
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.Form2.resources
+C:\Users\bakuzov_as\source\repos\diplom\diplom\bin\Debug\Database1.mdf
+C:\Users\bakuzov_as\source\repos\diplom\diplom\bin\Debug\Database1_log.ldf
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.Form3.resources
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.Form4.resources
+C:\Users\bakuzov_as\source\repos\diplom\diplom\obj\Debug\diplom.Form5.resources
